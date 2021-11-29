@@ -12,6 +12,7 @@ operator in §3.4.
 using namespace std;
 
 int main() {
+    
     cout << "Enter an integer.\nI will tell you if it is even or odd: ";
     int temp;
     cin >>  temp;
